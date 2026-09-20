@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shorts Limiter</string>
+    <string name="accessibility_desc">Enables automated system blocking for subsequent YouTube Short swiping behaviors.</string>
+</resources>
